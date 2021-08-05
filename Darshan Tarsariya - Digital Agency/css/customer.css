@@ -1,0 +1,81 @@
+/* customer section start */
+
+.customer_section{
+    width: 100%;
+    float: left;
+    padding-top: 70px;
+    padding-bottom: 100px;
+    background-color: #28262b;
+}
+.customer_taital2{
+    text-align: center;
+    color: rgb(138, 138, 138);
+}
+.customer_taital{
+    width: 100%;
+    float: left;
+    font-size: 30px;
+    color: #ffffff;
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.customer_section_2 {
+    width: 90%;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+.client_box {
+    width: 100%;
+    display: flex;
+    border: 1px solid #525252;
+    padding: 30px;
+}
+
+.client_left{
+    width: 20%;
+}
+
+.client_middle{
+    width: 30%;
+    padding-top: 40px;
+    padding-left: 20px;
+}
+
+.client_right {
+    width: 50%;
+    padding-top: 30px;
+}
+
+.client_img{
+    width: 100%;
+    float: left;
+}
+
+.client_text{
+    width: 100%;
+    float: left;
+    font-size: 20px;
+    color: #fff;
+    font-weight: bold;
+    padding: 0px;
+}
+
+.consectetur_text{
+    width: 100%;
+    float: left;
+    font-size: 20px;
+    color: #9335ff;
+    margin: 0px;  
+}
+
+.lorem_text{
+    width: 100%;
+    float: left;
+    font-size: 16px;
+    color: #fff;
+    margin: 0px;  
+}
+
